@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="Hi, I'm 1mono2! A little spark, every day.">
+<defs><clipPath id="rounded"><rect width="900" height="210" rx="24"/></clipPath></defs><g clip-path="url(#rounded)">
+<rect width="900" height="210" rx="24" fill="#FFF7E7"/>
+<circle cx="790" cy="44" r="130" fill="#FFE5A4"/>
+<circle cx="783" cy="79" r="68" fill="#FFD16A"/>
+<path d="M0 176 Q145 140 288 179 T574 176 T900 167 V210 H0Z" fill="#FFD98F"/>
+<path d="M0 195 Q188 174 350 197 T690 185 T900 192 V210 H0Z" fill="#F4AB53"/>
+<text x="48" y="59" fill="#8C572D" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">HELLO, GITHUB</text>
+<text x="46" y="117" fill="#513526" font-family="Arial,sans-serif" font-weight="700" font-size="49">Hi, I'm 1mono2!</text>
+<text x="48" y="151" fill="#79543A" font-family="Arial,sans-serif" font-size="19">A little spark, every day.</text>
+<g fill="#D87824"><path d="M740 56 L723 89 H743 L731 116 L765 78 H744Z"/><circle cx="821" cy="126" r="9"/><circle cx="704" cy="129" r="7"/></g>
+<g stroke="#9D5C26" stroke-width="3" stroke-linecap="round"><path d="M657 43V57M650 50H664M847 142V156M840 149H854"/></g>
+</g></svg>
